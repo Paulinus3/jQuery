@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+hr{
+width: 40%;
+border: 1px solid gray;
+border-bottom: 0;
+}
+
+.accordion{
+    background-color: #ececec;
+}
+
+.accordion-item {
+    color: orange;
+    cursor: pointer; 
+}
+
+.title {
+    color: orange;
+    display: inline-block;  
+    font-weight: bold;    
+  }
+
+.accordion-content {
+    display: none;
+    background-color: white;
+    color: black;   
+}
+

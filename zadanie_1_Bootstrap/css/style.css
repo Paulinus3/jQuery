@@ -1,0 +1,16 @@
+h1, p{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+color: gray
+}
+hr{
+    width: 70px;
+    border: 1px solid gray;
+    border-bottom: 0;
+}
+
+.fab{
+    font-size:120px;
+    color: orange;
+    
+}
